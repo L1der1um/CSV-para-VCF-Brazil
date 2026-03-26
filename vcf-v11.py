@@ -5,7 +5,7 @@ from tkinter import filedialog, messagebox
 class CSVtoVCFApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("CSV para VCF - UNIMED SOROCABA")
+        self.root.title("CSV para VCF")
         self.root.geometry("400x300")
         self.root.configure(bg="#e4e0c6")
 
