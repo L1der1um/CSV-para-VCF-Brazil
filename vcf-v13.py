@@ -7,7 +7,7 @@ class CSVtoVCFApp:
 
         #Configuração da janela
         self.root = root
-        self.root.title("CSV para VCF - UNIMED SOROCABA")
+        self.root.title("CSV para VCF)
         self.root.geometry("400x300")
         self.root.configure(bg="#2c9760")
 
